@@ -1,13 +1,16 @@
 # nRF52840 M.2 Module
-> An M.2 module that enables multiprotocol connectivity, security and ease-of-use for your next embedded design
+
+![github pages](https://github.com/makerdiary/nrf52840-m2/workflows/github%20pages/badge.svg)
+
+> A removable M.2 module that enables multiprotocol connectivity, security and ease-of-use for your next embedded design
 
 ## Description
 
-The nRF52840 M.2 Module is a compact module designed and built to meet the multiprotocol onnectivity, security and ease-of-use requirements of your next embedded design. Based on the nRF52840 SoC, it has protocol support for Bluetooth 5, Bluetooth mesh, Thread, Zigbee, 802.15.4, ANT and 2.4 GHz proprietary stacks.
+**[nRF52840 M.2 Module](https://store.makerdiary.com/products/nrf52840-m2-module)** is a removable module designed and built to meet the multiprotocol onnectivity, security and ease-of-use requirements of your next embedded design. Based on the nRF52840 SoC, it has protocol support for Bluetooth 5, Bluetooth mesh, Thread, Zigbee, 802.15.4, ANT and 2.4 GHz proprietary stacks.
 
 The module comes with an M.2 (also known as NGFF - Next Generation Form Factor) Key-E form factor, that will simplify and minimize the development cycle and deployment of your end-product helping to accelerate its time-to-market.
 
-We also offers the [nRF52840 M.2 Developer Kit](https://wiki.makerdiary.com/nrf52840-m2-devkit) to help you prototype your application and then scale to production faster using the nRF52840 M.2 Module combined with your custom PCB hardware.
+We also offer the [nRF52840 M.2 Developer Kit](https://store.makerdiary.com/products/nrf52840-m2-devkit) to help you prototype your application and then scale to production faster using the nRF52840 M.2 Module combined with your custom PCB hardware.
 
 ![Module Image]()
 
@@ -52,7 +55,7 @@ The hardware diagram of the nRF52840 M.2 Module is shown below:
 
 ## Getting Started
 
-The [nRF52840 M.2 Developer Kit](../nrf52840-m2-devkit) is available for the nRF52840 M.2 Module evaluation and development.
+The [nRF52840 M.2 Developer Kit](https://wiki.makerdiary.com/nrf52840-m2-devkit) is available for the nRF52840 M.2 Module evaluation and development.
 
 ## Design Resource
 
