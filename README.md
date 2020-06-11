@@ -10,9 +10,9 @@
 
 The module comes with an M.2 (also known as NGFF - Next Generation Form Factor) Key-E form factor, that will simplify and minimize the development cycle and deployment of your end-product helping to accelerate its time-to-market.
 
-We also offer the [nRF52840 M.2 Developer Kit](https://store.makerdiary.com/products/nrf52840-m2-devkit) to help you prototype your application and then scale to production faster using the nRF52840 M.2 Module combined with your custom PCB hardware.
+We also offer the **[nRF52840 M.2 Developer Kit](https://store.makerdiary.com/products/nrf52840-m2-devkit)** to help you prototype your application and then scale to production faster using the nRF52840 M.2 Module combined with your custom PCB hardware.
 
-![Module Image]()
+[![Module Image](docs/assets/images/nrf52840-m2-module-prod.webp)](https://store.makerdiary.com/products/nrf52840-m2-module)
 
 ## Key Features
 
@@ -30,6 +30,7 @@ We also offer the [nRF52840 M.2 Developer Kit](https://store.makerdiary.com/prod
 * M.2 Key-E Form Factor
 * U.FL/I-PEX MHF Antenna Connectors
 * 2.4 GHz and NFC cabled PCB Antennas
+* 3.3V IO Operating Voltage
 * Dimensions: 22.00 x 30.00 x 2.1 mm
 
 ## Targeted Applications
@@ -44,7 +45,7 @@ We also offer the [nRF52840 M.2 Developer Kit](https://store.makerdiary.com/prod
 
 The hardware diagram of the nRF52840 M.2 Module is shown below:
 
-<a href="docs/resources/nrf52840_m2_module_diagram_v1_0.pdf" target="_blank"><img alt="Click to download the PDF" src="docs/assets/images/nrf52840-m2-module-diagram.webp"></a>
+<a href="https://wiki.makerdiary.com/nrf52840-m2/resources/nrf52840_m2_module_diagram_v1_0.pdf" target="_blank"><img alt="Click to download the PDF" src="docs/assets/images/nrf52840-m2-module-diagram.webp"></a>
 
 ## Included in the Box
 |    **Part**                | **Qty** |
@@ -59,18 +60,18 @@ The [nRF52840 M.2 Developer Kit](https://wiki.makerdiary.com/nrf52840-m2-devkit)
 
 ## Design Resource
 
-* [nRF52840 M.2 Module Hardware Diagram v1.0](docs/resources/nrf52840_m2_module_diagram_v1_0.pdf)
-* [nRF52840 M.2 Module Schematic V1.0](docs/resources/nrf52840_m2_schematic_v1_0.pdf)
-* [nRF52840 M.2 Module Board File V1.0](docs/resources/nrf52840_m2_board_file_v1_0.pdf)
-* [nRF52840 M.2 Module 3D Model V1.0](docs/resources/nrf52840_m2_3d_model_v1_0.step)
+* [nRF52840 M.2 Module Hardware Diagram v1.0](https://wiki.makerdiary.com/nrf52840-m2/resources/nrf52840_m2_module_diagram_v1_0.pdf)
+* [nRF52840 M.2 Module Schematic V1.0](https://wiki.makerdiary.com/nrf52840-m2/resources/nrf52840_m2_module_schematic_v1_0.pdf)
+* [nRF52840 M.2 Module Board File V1.0](https://wiki.makerdiary.com/nrf52840-m2/resources/nrf52840_m2_module_board_file_v1_0.pdf)
+* [nRF52840 M.2 Module 3D Model V1.0](https://wiki.makerdiary.com/nrf52840-m2/resources/nrf52840_m2_module_3d_model_v1_0.step)
 
 ## Where to Buy
 
 nRF52840 M.2 Module is available on the following channels (click to go directly to the product):
 
-[![makerdiary store](docs/assets/images/makerdiary-store-logo.png)](https://store.makerdiary.com/products/nrf52840-m2)
+[![makerdiary store](docs/assets/images/makerdiary-store-logo.png)](https://store.makerdiary.com/products/nrf52840-m2-module)
 
-[![Tindie](docs/assets/images/tindie-logo.png)](https://www.tindie.com/products/zelin/nrf52840-m2)
+[![Tindie](docs/assets/images/tindie-logo.png)](https://www.tindie.com/products/zelin/nrf52840-m2-module)
 
 [![Taobao](docs/assets/images/taobao-logo.png)](https://zaowubang.taobao.com)
 

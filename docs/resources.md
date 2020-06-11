@@ -10,8 +10,8 @@ See below for available documentation, software, and other resources.
 ## Hardware Resource
 
 * [nRF52840 M.2 Module Hardware Diagram V1.0](https://wiki.makerdiary.com/nrf52840-m2/resources/nrf52840_m2_module_hw_diagram_v1_0.pdf)
-* [nRF52840 M.2 Module Schematic V1.0](https://wiki.makerdiary.com/nrf52840-m2/resources/nrf52840_m2_schematic_v1_0.pdf)
-* [nRF52840 M.2 Module Board File V1.0](https://wiki.makerdiary.com/nrf52840-m2/resources/nrf52840_m2_board_file_v1_0.pdf)
+* [nRF52840 M.2 Module Schematic V1.0](https://wiki.makerdiary.com/nrf52840-m2/resources/nrf52840_m2_module_schematic_v1_0.pdf)
+* [nRF52840 M.2 Module Board File V1.0](https://wiki.makerdiary.com/nrf52840-m2/resources/nrf52840_m2_module_board_file_v1_0.pdf)
 * [nRF52840 M.2 Module 3D Model V1.0](https://wiki.makerdiary.com/nrf52840-m2/resources/nrf52840_m2_module_3d_model_v1_0.step)
 
 ## Request a Tutorial

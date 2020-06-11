@@ -118,7 +118,7 @@ markdown_extensions:
   - pymdownx.magiclink:
       repo_url_shorthand: true
       user: makerdiary
-      repo: nrf52840-m2-devkit
+      repo: nrf52840-m2
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.snippets:

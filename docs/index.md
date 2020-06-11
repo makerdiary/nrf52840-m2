@@ -8,7 +8,7 @@ The module comes with an M.2 (also known as NGFF - Next Generation Form Factor) 
 
 We also offer the **[nRF52840 M.2 Developer Kit](https://store.makerdiary.com/products/nrf52840-m2-devkit)** to help you prototype your application and then scale to production faster using the nRF52840 M.2 Module combined with your custom PCB hardware.
 
-![Module Image]()
+[![Module Image](assets/images/nrf52840-m2-module-prod.webp)](https://store.makerdiary.com/products/nrf52840-m2-module)
 
 ## Key Features
 
@@ -26,6 +26,7 @@ We also offer the **[nRF52840 M.2 Developer Kit](https://store.makerdiary.com/pr
 * M.2 Key-E Form Factor
 * U.FL/I-PEX MHF Antenna Connectors
 * 2.4 GHz and NFC cabled PCB Antennas
+* 3.3V IO Operating Voltage
 * Dimensions: 22.00 x 30.00 x 2.1 mm
 
 ## Targeted Applications
@@ -59,9 +60,9 @@ The [nRF52840 M.2 Developer Kit](https://store.makerdiary.com/products/nrf52840-
 ## Design Resource
 
 * [nRF52840 M.2 Module Hardware Diagram v1.0](resources/nrf52840_m2_module_diagram_v1_0.pdf)
-* [nRF52840 M.2 Module Schematic V1.0](resources/nrf52840_m2_schematic_v1_0.pdf)
-* [nRF52840 M.2 Module Board File V1.0](resources/nrf52840_m2_board_file_v1_0.pdf)
-* [nRF52840 M.2 Module 3D Model V1.0](resources/nrf52840_m2_3d_model_v1_0.step)
+* [nRF52840 M.2 Module Schematic V1.0](resources/nrf52840_m2_module_schematic_v1_0.pdf)
+* [nRF52840 M.2 Module Board File V1.0](resources/nrf52840_m2_module_board_file_v1_0.pdf)
+* [nRF52840 M.2 Module 3D Model V1.0](resources/nrf52840_m2_module_3d_model_v1_0.step)
 
 ## Create an Issue
 Interested in contributing to this project? Want to report a bug? Feel free to click here:
