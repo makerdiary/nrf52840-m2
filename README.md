@@ -10,7 +10,7 @@
 
 The module comes with an M.2 (also known as NGFF - Next Generation Form Factor) Key-E form factor, that will simplify and minimize the development cycle and deployment of your end-product helping to accelerate its time-to-market.
 
-We also offer the **[nRF52840 M.2 Developer Kit](https://store.makerdiary.com/products/nrf52840-m2-devkit)** to help you prototype your application and then scale to production faster using the nRF52840 M.2 Module combined with your custom PCB hardware.
+We also offer the **[nRF52840 M.2 Developer Kit](https://store.makerdiary.com/products/nrf52840-m2-developer-kit)** to help you prototype your application and then scale to production faster using the nRF52840 M.2 Module combined with your custom PCB hardware.
 
 [![Module Image](docs/assets/images/nrf52840-m2-module-prod.webp)](https://store.makerdiary.com/products/nrf52840-m2-module)
 
@@ -56,7 +56,7 @@ The hardware diagram of the nRF52840 M.2 Module is shown below:
 
 ## Getting Started
 
-The [nRF52840 M.2 Developer Kit](https://wiki.makerdiary.com/nrf52840-m2-devkit) is available for the nRF52840 M.2 Module evaluation and development.
+The [nRF52840 M.2 Developer Kit](https://wiki.makerdiary.com/nrf52840-m2-developer-kit) is available for the nRF52840 M.2 Module evaluation and development.
 
 ## Design Resource
 

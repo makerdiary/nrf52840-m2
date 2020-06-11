@@ -6,7 +6,7 @@ This guide walks you through the setup and shows you how to run the Out of Box D
 
 ## Requirements
 
-* A [nRF52840 M.2 Developer Kit](https://store.makerdiary.com/products/nrf52840-m2-devkit) (including nRF52840 M.2 Module and M.2 Dock)
+* A [nRF52840 M.2 Developer Kit](https://store.makerdiary.com/products/nrf52840-m2-developer-kit) (including nRF52840 M.2 Module and M.2 Dock)
 * A macOS, Linux or Windows computer
 
 ## Assemble the hardware

@@ -9,7 +9,7 @@ This section describes how to program the nRF52840 M.2 Module using the M.2 Dock
 
 ## Requirements
 
-* A [nRF52840 M.2 Developer Kit](https://store.makerdiary.com/products/nrf52840-m2-devkit) (including nRF52840 M.2 Module and M.2 Dock)
+* A [nRF52840 M.2 Developer Kit](https://store.makerdiary.com/products/nrf52840-m2-developer-kit) (including nRF52840 M.2 Module and M.2 Dock)
 * A macOS, Linux or Windows computer
 
 ## Prepare for Programming
