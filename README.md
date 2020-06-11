@@ -56,10 +56,9 @@ The hardware diagram of the nRF52840 M.2 Module is shown below:
 
 ## Getting Started
 
+The [nRF52840 M.2 Developer Kit](https://store.makerdiary.com/products/nrf52840-m2-developer-kit) is available for the nRF52840 M.2 Module evaluation and development. See below for available documentation:
+
 * [nRF52840 M.2 Module Documentation](https://wiki.makerdiary.com/nrf52840-m2)
-
-The [nRF52840 M.2 Developer Kit](https://wiki.makerdiary.com/nrf52840-m2-devkit) is available for the nRF52840 M.2 Module evaluation and development:
-
 * [nRF52840 M.2 Developer Kit Wiki page](https://wiki.makerdiary.com/nrf52840-m2-devkit)
 
 ## Design Resource
