@@ -31,6 +31,7 @@ We also offer the **[nRF52840 M.2 Developer Kit](https://store.makerdiary.com/pr
 * U.FL/I-PEX MHF Antenna Connectors
 * 2.4 GHz and NFC cabled PCB Antennas
 * 3.3V IO Operating Voltage
+* Shipped with Python Interpreter firmware
 * Dimensions: 22.00 x 30.00 x 2.1 mm
 
 ## Targeted Applications

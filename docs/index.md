@@ -4,7 +4,7 @@
 
 **[nRF52840 M.2 Module](https://store.makerdiary.com/products/nrf52840-m2-module)** is a removable module designed and built to meet the multiprotocol connectivity, security and ease-of-use requirements of your next embedded design. Based on the nRF52840 SoC, it has protocol support for Bluetooth 5, Bluetooth mesh, Thread, Zigbee, 802.15.4, ANT and 2.4 GHz proprietary stacks.
 
-The module comes with an M.2 (also known as NGFF - Next Generation Form Factor) Key-E form factor, that will simplify and minimize the development cycle and deployment of your end-product helping to accelerate its time-to-market.
+The module comes with an M.2 (also known as NGFF - Next Generation Form Factor) Key-E form factor, 64Mbit QSPI flash memory, RGB LED and U.FL/I-PEX MHF antenna connectors, that will simplify and minimize the development cycle and deployment of your end-product helping to accelerate its time-to-market.
 
 We also offer the **[nRF52840 M.2 Developer Kit](https://store.makerdiary.com/products/nrf52840-m2-developer-kit)** to help you prototype your application and then scale to production faster using the nRF52840 M.2 Module combined with your custom PCB hardware.
 
@@ -27,6 +27,7 @@ We also offer the **[nRF52840 M.2 Developer Kit](https://store.makerdiary.com/pr
 * U.FL/I-PEX MHF Antenna Connectors
 * 2.4 GHz and NFC cabled PCB Antennas
 * 3.3V IO Operating Voltage
+* Shipped with Python Interpreter firmware
 * Dimensions: 22.00 x 30.00 x 2.1 mm
 
 ## Targeted Applications
