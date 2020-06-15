@@ -8,7 +8,7 @@ For quick questions there's no need to open an issue as you can reach us on [mak
 
 ## Found a bug?
 
-If you found a bug in the source code, you can help us by submitting an issue to the [issue tracker](https://github.com/makerdiary/nrf52840-m2) in our GitHub repository. Even better, you can submit a Pull Request with a fix.
+If you found a bug in the source code, you can help us by submitting an issue to the [issue tracker](https://github.com/makerdiary/nrf52840-m2/issues) in our GitHub repository. Even better, you can submit a Pull Request with a fix.
 
 ## Request a Tutorial
 
