@@ -6,7 +6,7 @@ nRF52840 M.2 Module is available on the following channels (click to go directly
 
 [![makerdiary store](assets/images/makerdiary-store-logo.png)](https://store.makerdiary.com/products/nrf52840-m2-module)
 
-[![Tindie](assets/images/tindie-logo.png)](https://www.tindie.com/products/zelin/nrf52840-m2-module/)
+[![Tindie](assets/images/tindie-logo.png)](https://www.tindie.com/products/zelin/nrf52840-m2-module-w-pcb-antennas/)
 
 [![Taobao](assets/images/taobao-logo.png)](https://zaowubang.taobao.com)
 
