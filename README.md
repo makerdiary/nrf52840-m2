@@ -79,7 +79,7 @@ nRF52840 M.2 Module is available on the following channels (click to go directly
 
 [![Tindie](docs/assets/images/tindie-logo.png)](https://www.tindie.com/products/zelin/nrf52840-m2-module-w-pcb-antennas/)
 
-[![Taobao](docs/assets/images/taobao-logo.png)](https://zaowubang.taobao.com)
+[![Taobao](docs/assets/images/taobao-logo.png)](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-18605444714.20.39be796cWWpkcD&id=623109099058)
 
 ## Bulk & Customization
 
